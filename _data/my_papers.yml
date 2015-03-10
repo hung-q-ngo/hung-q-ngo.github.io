@@ -3,11 +3,6 @@
   conf: Proceedings of the 2014 Neural Information Processing Systems (NIPS), pp. 3554--3562
   year: 2014
   pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/nips14.pdf
-- authors: Hung Q. Ngo, Atri Rudra
-  title: Efficiently decodable group testing
-  journal: Encyclopedia of Algorithms
-  year: 2015
-  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/gt-encyclopedia.pdf
 - authors: Mahmoud Abo Khamis, Anna C. Gilbert, Hung Q. Ngo, Atri Rudra
   title: Sparse Approximation, List Decoding, and Uncertainty Principles
   journal: Submitted
@@ -15,9 +10,14 @@
   arxiv-link: http://arxiv.org/abs/1404.5190
 - authors: Mahmoud Abo Khamis, Hung Q. Ngo, Christopher Ré, Atri Rudra
   title: "Joins via Geometric Resolutions: Worst-case and Beyond"
-  conf: Submitted
+  conf: Proceedings of the 34rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems (PODS)
   year: 2015
   arxiv-link: http://arxiv.org/abs/1404.0703
+- authors: Hung Q. Ngo, Atri Rudra
+  title: Efficiently decodable group testing
+  journal: Encyclopedia of Algorithms
+  year: 2015
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/gt-encyclopedia.pdf
 - authors: Nikhil Londhe, Vishrawas Gopalakrishnan, Aidong Zhang, Hung Q. Ngo, and Rohini Srihari
   title: Matching Titles with Cross Title Web-Search Enrichment and Community Detection
   conf: Proceedings of the 40th International Conference on Very Large Databases (VLDB)
