@@ -1,8 +1,8 @@
-- authors: Yingbo Zhou, Utkarsh Porwal, Ce Zhang, Hung Q. Ngo, XuanLong Nguyen, Christopher Ré, Venu Govindaraju
-  title: Parallel feature selection inspired by group testing
-  conf: Proceedings of the 2014 Neural Information Processing Systems (NIPS), pp. 3554--3562
-  year: 2014
-  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/nips14.pdf
+- authors: Dung Nguyen, Molham Aref, Martin Bravenboer, George Kollias, Hung Q. Ngo, Christopher Ré, Atri Rudra
+  title: "Join Processing for Graph Patterns: An Old Dog with New Tricks"
+  conf: Submitted
+  year: 2015
+  arxiv-link: http://arxiv.org/abs/1503.04169
 - authors: Mahmoud Abo Khamis, Anna C. Gilbert, Hung Q. Ngo, Atri Rudra
   title: Sparse Approximation, List Decoding, and Uncertainty Principles
   journal: Submitted
@@ -18,6 +18,11 @@
   journal: Encyclopedia of Algorithms
   year: 2015
   pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/gt-encyclopedia.pdf
+- authors: Yingbo Zhou, Utkarsh Porwal, Ce Zhang, Hung Q. Ngo, XuanLong Nguyen, Christopher Ré, Venu Govindaraju
+  title: Parallel feature selection inspired by group testing
+  conf: Proceedings of the 2014 Neural Information Processing Systems (NIPS), pp. 3554--3562
+  year: 2014
+  pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/nips14.pdf
 - authors: Nikhil Londhe, Vishrawas Gopalakrishnan, Aidong Zhang, Hung Q. Ngo, and Rohini Srihari
   title: Matching Titles with Cross Title Web-Search Enrichment and Community Detection
   conf: Proceedings of the 40th International Conference on Very Large Databases (VLDB)
