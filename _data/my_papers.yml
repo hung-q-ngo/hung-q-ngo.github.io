@@ -1,13 +1,13 @@
-- authors: Dung Nguyen, Molham Aref, Martin Bravenboer, George Kollias, Hung Q. Ngo, Christopher Ré, Atri Rudra
-  title: "Join Processing for Graph Patterns: An Old Dog with New Tricks"
-  conf: Submitted
-  year: 2015
-  arxiv-link: http://arxiv.org/abs/1503.04169
 - authors: Mahmoud Abo Khamis, Anna C. Gilbert, Hung Q. Ngo, Atri Rudra
   title: Sparse Approximation, List Decoding, and Uncertainty Principles
   journal: Submitted
   year: 2015
   arxiv-link: http://arxiv.org/abs/1404.5190
+- authors: Dung Nguyen, Molham Aref, Martin Bravenboer, George Kollias, Hung Q. Ngo, Christopher Ré, Atri Rudra
+  title: "Join Processing for Graph Patterns: An Old Dog with New Tricks"
+  conf: Graph Data-management Experiences & Systems Workshop (GRADES 2015), co-located with SIGMOD/PODS 2015.
+  year: 2015
+  arxiv-link: http://arxiv.org/abs/1503.04169
 - authors: Mahmoud Abo Khamis, Hung Q. Ngo, Christopher Ré, Atri Rudra
   title: "Joins via Geometric Resolutions: Worst-case and Beyond"
   conf: Proceedings of the 34rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems (PODS)
