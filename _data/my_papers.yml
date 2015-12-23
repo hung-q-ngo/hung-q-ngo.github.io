@@ -24,6 +24,7 @@
 - authors: Mahmoud Abo Khamis, Hung Q. Ngo, Christopher Ré, Atri Rudra
   title: "Joins via Geometric Resolutions: Worst-case and Beyond"
   conf: Proceedings of the 34rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems (PODS)
+  note: Invited to the TODS as one of the best papers from PODS 2015
   year: 2015
   arxiv-link: http://arxiv.org/abs/1404.0703
 - authors: Hung Q. Ngo, Atri Rudra
