@@ -1,7 +1,13 @@
 - authors: Mahmoud Abo Khamis, Hung Q. Ngo, Dan Suciu
   title: "Computing join queries with functional dependencies"
   conf: Proceedings of the 35rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems (PODS)
+  arxiv-link: http://arxiv.org/abs/1604.00111
   year: 2016
+- authors: Mahmoud Abo Khamis, Hung Q. Ngo, Atri Rudra
+  title: "FAQ: Questions Asked Frequently"
+  conf: Proceedings of the 35rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems (PODS)
+  year: 2016
+  arxiv-link: http://arxiv.org/pdf/1504.04044v4.pdf
 - authors: Yaniv Erlich, Anna Gilbert, Hung Ngo, Atri Rudra, Nicolas Thierry-Mieg, Mary Wootters, Dina Zielinski, Or Zuk
   title: "Biological screens from linear codes: theory and tools"
   journal: Submitted
@@ -12,12 +18,6 @@
   journal: Submitted
   year: 2016
   arxiv-link: http://arxiv.org/abs/1404.5190
-- authors: Mahmoud Abo Khamis, Hung Q. Ngo, Atri Rudra
-  title: "FAQ: Questions Asked Frequently"
-  conf: Proceedings of the 35rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems (PODS)
-  year: 2016
-  note: Best Paper Award.
-  arxiv-link: http://arxiv.org/pdf/1504.04044v4.pdf
 - authors: Dung Nguyen, Molham Aref, Martin Bravenboer, George Kollias, Hung Q. Ngo, Christopher Ré, Atri Rudra
   title: "Join Processing for Graph Patterns: An Old Dog with New Tricks"
   conf: Graph Data-management Experiences & Systems Workshop (GRADES 2015), co-located with SIGMOD/PODS 2015.
