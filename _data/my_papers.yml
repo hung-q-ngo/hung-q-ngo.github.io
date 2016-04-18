@@ -8,7 +8,7 @@
   note: Best Paper Award.
   conf: Proceedings of the 35rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems (PODS)
   year: 2016
-  arxiv-link: http://arxiv.org/pdf/1504.04044v4.pdf
+  arxiv-link: http://arxiv.org/1504.04044
 - authors: Yaniv Erlich, Anna Gilbert, Hung Ngo, Atri Rudra, Nicolas Thierry-Mieg, Mary Wootters, Dina Zielinski, Or Zuk
   title: "Biological screens from linear codes: theory and tools"
   journal: Submitted
