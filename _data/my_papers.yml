@@ -1,3 +1,8 @@
+- authors: Devansh Arpit, Yingbo Zhou, Hung Q. Ngo, Venu Govindaraju
+  title: "Why Regularized Auto-Encoders learn Sparse Representation?"
+  conf: Proceedings of the 33th International Conference on Machine Learning (ICML) 
+  arxiv-link: http://arxiv.org/abs/1505.05561
+  year: 2016
 - authors: Mahmoud Abo Khamis, Hung Q. Ngo, Dan Suciu
   title: "Computing join queries with functional dependencies"
   conf: Proceedings of the 35rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems (PODS)
