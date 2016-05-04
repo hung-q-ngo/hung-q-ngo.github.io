@@ -37,6 +37,9 @@ sub-title: There may be discrepancies between the electronic and printed version
            {% if paper.arxiv-link %}
               [ <a href="{{ paper.arxiv-link}}">full version</a> on ArXiV ]
            {% endif %}
+           {% if paper.talk-slides %}
+              [ <a href="{{ paper.talk-slides}}">talk slides</a> ]
+           {% endif %}
            <br>
     {% endfor %}
   </ol>
