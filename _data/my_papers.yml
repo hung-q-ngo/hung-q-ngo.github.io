@@ -1,3 +1,8 @@
+- authors: Mahmoud Abo Khamis, Hung Q. Ngo, Christopher Ré, Atri Rudra
+  title: "Joins via Geometric Resolutions: Worst-case and Beyond"
+  journal: ACM Transactions on Database Systems (TODS). Vol. 41 (4). Article 22, 45 pages.
+  year: 2016
+  arxiv-link: http://arxiv.org/abs/1404.0703
 - authors: Devansh Arpit, Yingbo Zhou, Hung Q. Ngo, Venu Govindaraju
   title: "Why Regularized Auto-Encoders learn Sparse Representation?"
   conf: Proceedings of the 33th International Conference on Machine Learning (ICML) 
@@ -10,7 +15,7 @@
   year: 2016
 - authors: Mahmoud Abo Khamis, Hung Q. Ngo, Atri Rudra
   title: "FAQ: Questions Asked Frequently"
-  note: Best Paper Award.
+  note: Best Paper Award at PODS 2016. ACM SIGMOD Research Highlight 2016 Award.
   conf: Proceedings of the 35rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems (PODS)
   year: 2016
   arxiv-link: http://arxiv.org/abs/1504.04044
