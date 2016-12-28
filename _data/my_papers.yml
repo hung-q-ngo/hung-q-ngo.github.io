@@ -1,3 +1,12 @@
+- authors: Mahmoud Abo Khamis, Hung Q. Ngo, Dan Suciu
+  title: "What do Shannon-type inequalities, submodular width, and disjunctive datalog have to do with one another?"
+  journal: Submitted.
+  arxiv-link: https://arxiv.org/abs/1612.02503
+  year: 2017
+- authors: Mahmoud Abo Khamis, Hung Q. Ngo, Atri Rudra
+  title: "Juggling Functions Inside a Database",
+  journal: SIGMOD Records, SIGMOD Research Highlights Special Issue,
+  year: 2017
 - authors: Mahmoud Abo Khamis, Hung Q. Ngo, Christopher Ré, Atri Rudra
   title: "Joins via Geometric Resolutions: Worst-case and Beyond"
   journal: ACM Transactions on Database Systems (TODS). Vol. 41 (4). Article 22, 45 pages.
