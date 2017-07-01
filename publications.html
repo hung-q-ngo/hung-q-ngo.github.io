@@ -6,7 +6,7 @@ sub-title: There may be discrepancies between the electronic and printed version
 
 <div class="front-full-width-container">
 <div class="container front-full-width-text">
-  <ol reversed>
+  <ul reversed>
     {% assign papers = site.data.my_papers | sort:"year" %}
     {% for paper in papers reversed %}
     {% assign loopindex = forloop.index | modulo: 2 %}
@@ -46,6 +46,6 @@ sub-title: There may be discrepancies between the electronic and printed version
            {% endif %}
            <br>
     {% endfor %}
-  </ol>
+  </ul>
 </div>
 </div>
