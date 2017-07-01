@@ -19,7 +19,11 @@ sub-title: There may be discrepancies between the electronic and printed version
              <span class="label label-info">{{ paper.note }}</span><br>
            {% endif %}
            {{ paper.authors }}<br>
-           "<strong>{{ paper.title }}</strong>"<br>
+           "<strong>{{ paper.title }}</strong>"
+           {% if paper.abbvr%}
+           <span class="paper-abbreviation">{{ paper.abbvr }}</span>
+           {% endif %}
+           <br>
            {% if paper.conf %}
               {{ paper.conf }}
            {% endif %}
@@ -29,7 +33,7 @@ sub-title: There may be discrepancies between the electronic and printed version
            {% if paper.book %}
              {{ paper.book }}
            {% endif %}
-           , {{ paper.year }}.
+           <span class="paper-abbreviation">{{ paper.year }}</span>
            <br>
            {% if paper.pdf-link %}
               [ <a href="{{ paper.pdf-link }}">pdf</a> ]
