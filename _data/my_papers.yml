@@ -13,6 +13,7 @@
   title: "What do Shannon-type inequalities, submodular width, and disjunctive datalog have to do with one another?"
   conf: Proceedings of the 36rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems
   arxiv-link: https://arxiv.org/abs/1612.02503
+  note: Invited to Journal of the ACM
   year: 2017
   abbvr: PODS
 - authors: Mahmoud Abo Khamis, Hung Q. Ngo, Atri Rudra
