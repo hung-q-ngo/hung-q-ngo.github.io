@@ -1,3 +1,9 @@
+- authors: Hung Q. Ngo, Ely Porat, Christopher Re, and Atri Rudra
+  title: "Worst Case Optimal Join Algorithms"
+  journal: Journal of the ACM. Accepted.
+  year: 2018
+  arxiv-link: http://arxiv.org/abs/1203.1952
+  abbvr: JACM
 - authors: Mahmoud Abo Khamis, Hung Q. Ngo, XuanLong Nguyen, Dan Olteanu, and Maximilian Schleich
   title: "In-Database Learning with Sparse Tensors"
   journal: Submitted
@@ -136,7 +142,7 @@
   title: "Worst Case Optimal Join Algorithms"
   conf: Proceedings of the 31rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems
   year: 2012
-  note: Best Paper Award. Invited to Journal of the ACM
+  note: Best Paper Award.
   pdf-link: http://www.cse.buffalo.edu/~hungngo/papers/paper49.Ngo.pdf
   arxiv-link: http://arxiv.org/abs/1203.1952
   abbvr: PODS
