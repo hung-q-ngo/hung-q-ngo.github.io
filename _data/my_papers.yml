@@ -6,9 +6,10 @@
   abbvr: JACM
 - authors: Mahmoud Abo Khamis, Hung Q. Ngo, XuanLong Nguyen, Dan Olteanu, and Maximilian Schleich
   title: "In-Database Learning with Sparse Tensors"
-  journal: Submitted
+  conf: Proceedings of the 37rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems
   arxiv-link: https://arxiv.org/abs/1703.04780
-  year: 2017
+  abbvr: PODS
+  year: 2018
 - authors: Hung Q. Ngo, XuanLong Nguyen, Dan Olteanu, and Maximilian Schleich
   title: "In-Database Factorized Learning"
   conf: Alberto Mendelzon Workshop, Montevideo.
