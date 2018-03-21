@@ -1,3 +1,7 @@
+- authors: Mahmoud Abo Khamis, Hung Q. Ngo, XuanLong Nguyen, Dan Olteanu, and Maximilian Schleich
+  title: "AC/DC: In-Database Learning Thunderstruck"
+  arxiv-link: https://arxiv.org/abs/1803.07480
+  year: 2018
 - authors: Mahmoud Abo Khamis, Hung Q. Ngo, Dan Olteanu, and Dan Suciu
   title: "Boolean Tensor Decomposition for Conjunctive Queries with Negation"
   year: 2018
