@@ -1,3 +1,9 @@
+- authors: Hung Q. Ngo
+  title: "Worst-case Optimal Join Algorithms: Techniques, Results, and Open Problems"
+  conf: Proceedings of the 37rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems
+  arxiv-link: https://arxiv.org/abs/1803.09930
+  abbvr: PODS
+  year: 2018
 - authors: Mahmoud Abo Khamis, Hung Q. Ngo, XuanLong Nguyen, Dan Olteanu, and Maximilian Schleich
   title: "AC/DC: In-Database Learning Thunderstruck"
   arxiv-link: https://arxiv.org/abs/1803.07480
