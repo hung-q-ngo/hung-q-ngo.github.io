@@ -1,3 +1,13 @@
+- authors: Ahmet Kara, Hung Q. Ngo, Milos Nikolic, Dan Olteanu, and Haozhe Zhang. 
+  title: "Counting Triangles under Updates in Worst-Case Optimal Time"
+  arxiv-link: https://arxiv.org/pdf/1804.02780
+  year: 2018
+- authors: Ahmet Kara, Hung Q. Ngo, Milos Nikolic, Dan Olteanu, and Haozhe Zhang. 
+  title: "Counting Triangles under Updates in Sublinear Time (short paper)"
+  conf: Alberto Mendelzon Workshop, Cali, Colombia.
+  arxiv-link: https://arxiv.org/abs/1804.02780
+  year: 2018
+  abbvr: AMW
 - authors: Hung Q. Ngo
   title: "Worst-case Optimal Join Algorithms: Techniques, Results, and Open Problems"
   conf: Proceedings of the 37rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems
