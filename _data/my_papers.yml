@@ -33,9 +33,9 @@
   arxiv-link: http://arxiv.org/abs/1203.1952
   abbvr: JACM
 - authors: Vishrawas Gopalakrishnan, Kishlay Jha, Guangxu Xun, Hung Q. Ngo, and Aidong Zhang
-  title: "Towards SelfLearning Based Hypotheses Generation in Biomedical Text Domain"
-  journal: Bioinformatics, Oxford University Press
-  year: 2017
+  title: "Towards Self-learning Based Hypotheses Generation in Biomedical Text Domain"
+  journal: Bioinformatics 34(12), 2003--2015. Oxford University Press.
+  year: 2018
   pdf-link: https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btx837/4774696
 - authors: Mahmoud Abo Khamis, Hung Q. Ngo, XuanLong Nguyen, Dan Olteanu, and Maximilian Schleich
   title: "In-Database Learning with Sparse Tensors"
