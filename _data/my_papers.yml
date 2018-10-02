@@ -1,3 +1,8 @@
+- authors: Mahmoud Abo Khamis, Hung Q. Ngo, Dan Olteanu, and Dan Suciu
+  title: "Boolean Tensor Decomposition for Conjunctive Queries with Negation"
+  arxiv-link: https://arxiv.org/abs/1712.07445
+  abbvr: ICDT
+  year: 2019
 - authors: Ahmet Kara, Hung Q. Ngo, Milos Nikolic, Dan Olteanu, and Haozhe Zhang. 
   title: "Counting Triangles under Updates in Worst-Case Optimal Time"
   conf: International Conference on Database Theory
@@ -22,10 +27,6 @@
   conf: 2nd Workshop on Data Management for End-to-End Machine Learning
   abbvr: DEEM
   year: 2018
-- authors: Mahmoud Abo Khamis, Hung Q. Ngo, Dan Olteanu, and Dan Suciu
-  title: "Boolean Tensor Decomposition for Conjunctive Queries with Negation"
-  year: 2018
-  arxiv-link: https://arxiv.org/abs/1712.07445
 - authors: Hung Q. Ngo, Ely Porat, Christopher Re, and Atri Rudra
   title: "Worst Case Optimal Join Algorithms"
   journal: Journal of the ACM, vol. 65, no. 3., 16:1--16:40
