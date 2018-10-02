@@ -1,5 +1,6 @@
 - authors: Mahmoud Abo Khamis, Hung Q. Ngo, Dan Olteanu, and Dan Suciu
   title: "Boolean Tensor Decomposition for Conjunctive Queries with Negation"
+  conf: International Conference on Database Theory
   arxiv-link: https://arxiv.org/abs/1712.07445
   abbvr: ICDT
   year: 2019
