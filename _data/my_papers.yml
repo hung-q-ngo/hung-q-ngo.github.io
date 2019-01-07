@@ -1,3 +1,8 @@
+- authors: Mahmoud Abo Khamis, Hung Q. Ngo, XuanLong Nguyen, Dan Olteanu, and Maximilian Schleich
+  title: "Learning Models over Relational Data using Sparse Tensors and Functional Dependencies"
+  arxiv-link: https://arxiv.org/abs/1703.04780
+  abbvr: TODS
+  year: 2019
 - authors: Mahmoud Abo Khamis, Ryan R. Curtin, Benjamin Moseley, Hung Q. Ngo, XuanLong Nguyen, Dan Olteanu, and Maximilian Schleich
   title: "On Functional Aggregate Queries with Additive Inequalities"
   arxiv-link: https://arxiv.org/abs/1812.09526
