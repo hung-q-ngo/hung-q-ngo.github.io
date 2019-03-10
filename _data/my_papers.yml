@@ -6,8 +6,9 @@
   year: 2019
 - authors: Mahmoud Abo Khamis, Ryan R. Curtin, Benjamin Moseley, Hung Q. Ngo, XuanLong Nguyen, Dan Olteanu, and Maximilian Schleich
   title: "On Functional Aggregate Queries with Additive Inequalities"
+  conf: Proceedings of the 38rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems
   arxiv-link: https://arxiv.org/abs/1812.09526
-  journal: submitted
+  abbvr: PODS
   year: 2019
 - authors: Mahmoud Abo Khamis, Hung Q. Ngo, Dan Olteanu, and Dan Suciu
   title: "Boolean Tensor Decomposition for Conjunctive Queries with Negation"
