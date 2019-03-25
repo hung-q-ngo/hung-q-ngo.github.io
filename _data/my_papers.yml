@@ -1,3 +1,8 @@
+- authors: Maximilian Schleich, Dan Olteanu, Mahmoud Abo Khamis, Hung Q. Ngo, XuanLong Nguyen, 
+  title: "A layered aggregate engine for analytics workloads"
+  conf: ACM SIGMOD/PODS International Conference on Management of Data
+  abbvr: ACM SIGMOD
+  year: 2019
 - authors: Mahmoud Abo Khamis, Hung Q. Ngo, XuanLong Nguyen, Dan Olteanu, and Maximilian Schleich
   title: "Learning Models over Relational Data using Sparse Tensors and Functional Dependencies"
   arxiv-link: https://arxiv.org/abs/1703.04780
