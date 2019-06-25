@@ -1,5 +1,6 @@
 - authors: Mahmoud Abo Khamis, Phokion Kolaitis, Hung Q. Ngo, Dan Suciu
   title: "Bag Query Containment and Information Theory"
+  arxiv-link: https://arxiv.org/abs/1906.09727
   year: 2019
 - authors: Maximilian Schleich, Dan Olteanu, Mahmoud Abo Khamis, Hung Q. Ngo, XuanLong Nguyen, 
   title: "A layered aggregate engine for analytics workloads"
