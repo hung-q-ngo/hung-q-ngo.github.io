@@ -1,3 +1,6 @@
+- authors: Ryan R. Curtin, Benjamin Moseley, Hung Q. Ngo, XuanLong Nguyen, Dan Olteanu, and Maximilian Schleich
+  title: "Rk-means: fast coreset construction for clustering relational data"
+  year: 2019
 - authors: Mahmoud Abo Khamis, Phokion Kolaitis, Hung Q. Ngo, Dan Suciu
   title: "Bag Query Containment and Information Theory"
   arxiv-link: https://arxiv.org/abs/1906.09727
