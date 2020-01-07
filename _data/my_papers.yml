@@ -1,10 +1,11 @@
 - authors: Mahmoud Abo Khamis, Phokion Kolaitis, Hung Q. Ngo, Dan Suciu
   title: "Decision Problems in Information Theory"
-  year: 2019
+  year: 2020
 - authors: Ryan R. Curtin, Benjamin Moseley, Hung Q. Ngo, XuanLong Nguyen, Dan Olteanu, and Maximilian Schleich
   title: "Rk-means: fast clustering for relational data"
   arxiv-link: https://arxiv.org/abs/1910.04939
-  year: 2019
+  conf: The 23rd International Conference on Artificial Intelligence and Statistics
+  year: 2020
 - authors: Mahmoud Abo Khamis, Phokion Kolaitis, Hung Q. Ngo, Dan Suciu
   title: "Bag Query Containment and Information Theory"
   conf: ACM SIGMOD/PODS International Conference on Management of Data
