@@ -3,6 +3,7 @@
   year: 2020
 - authors: Ryan R. Curtin, Benjamin Moseley, Hung Q. Ngo, XuanLong Nguyen, Dan Olteanu, and Maximilian Schleich
   title: "Rk-means: fast clustering for relational data"
+  abbvr: AISTATS
   arxiv-link: https://arxiv.org/abs/1910.04939
   conf: The 23rd International Conference on Artificial Intelligence and Statistics
   year: 2020
