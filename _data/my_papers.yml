@@ -1,6 +1,5 @@
-- authors: Shikha Singh, Sergey Madaminov, Michael Bender, Michael Ferdman, Ryan Johnson,
-Benjamin Moseley, Hung Ngo, Dung Nguyen, Soeren Olesen, Kurt Stirewalt, Geoffrey Washburn
-  title: A Scheduling Approach to Incremental Maintenance of Datalog Programs
+- authors: Shikha Singh, Sergey Madaminov, Michael Bender, Michael Ferdman, Ryan Johnson, Benjamin Moseley, Hung Ngo, Dung Nguyen, Soeren Olesen, Kurt Stirewalt, and Geoffrey Washburn
+  title: "A Scheduling Approach to Incremental Maintenance of Datalog Programs"
   conf: The 34th International Parallel and Distributed Processing Symposium
   abbvr: IPDPS
   year: 2020
