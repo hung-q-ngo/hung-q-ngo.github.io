@@ -5,6 +5,8 @@
   year: 2020
 - authors: Mahmoud Abo Khamis, Phokion Kolaitis, Hung Q. Ngo, Dan Suciu
   title: "Decision Problems in Information Theory"
+  conf: The 47th International Colloquium on Automata, Languages and Programming
+  abbvr: ICALP
   year: 2020
 - authors: Ryan R. Curtin, Benjamin Moseley, Hung Q. Ngo, XuanLong Nguyen, Dan Olteanu, and Maximilian Schleich
   title: "Rk-means: fast clustering for relational data"
