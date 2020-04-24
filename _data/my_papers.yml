@@ -1,3 +1,9 @@
+- authors: Ahmet Kara, Hung Q. Ngo, Milos Nikolic, Dan Olteanu, and Haozhe Zhang.
+  title: "Maintaining Triangle Queries under Updates"
+  journal: ACM Transactions on Database Systems
+  abbvr: ACM TODS
+  arxiv-link: https://arxiv.org/abs/2004.08783
+  year: 2020
 - authors: Shikha Singh, Sergey Madaminov, Michael Bender, Michael Ferdman, Ryan Johnson, Benjamin Moseley, Hung Ngo, Dung Nguyen, Soeren Olesen, Kurt Stirewalt, and Geoffrey Washburn
   title: "A Scheduling Approach to Incremental Maintenance of Datalog Programs"
   conf: The 34th International Parallel and Distributed Processing Symposium
@@ -8,6 +14,7 @@
   conf: The 47th International Colloquium on Automata, Languages and Programming
   abbvr: ICALP
   year: 2020
+  arxiv-link: https://arxiv.org/abs/2004.08783
 - authors: Ryan R. Curtin, Benjamin Moseley, Hung Q. Ngo, XuanLong Nguyen, Dan Olteanu, and Maximilian Schleich
   title: "Rk-means: fast clustering for relational data"
   abbvr: AISTATS
