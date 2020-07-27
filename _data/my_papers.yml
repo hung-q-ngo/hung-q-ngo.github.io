@@ -9,6 +9,7 @@
   conf: The 34th International Parallel and Distributed Processing Symposium
   abbvr: IPDPS
   year: 2020
+  pdf-link: http://compas.cs.stonybrook.edu/~mferdman/downloads.php/ferdman-ipdps-scheduling_approach_to_incremental_maintenance_of_datalog_programs.pdf
 - authors: Mahmoud Abo Khamis, Phokion Kolaitis, Hung Q. Ngo, Dan Suciu
   title: "Decision Problems in Information Theory"
   conf: The 47th International Colloquium on Automata, Languages and Programming
