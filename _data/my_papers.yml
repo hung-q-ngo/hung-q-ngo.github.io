@@ -1,3 +1,7 @@
+- authors: Mahmoud Abo Khamis, Hung Q. Ngo, Reinhard Pichler, Dan Suciu, and Yisu Remy Wang
+  title: "Convergence of Datalog over (Pre-) Semirings"
+  arxiv-link: https://arxiv.org/abs/2105.14435
+  year: 2021
 - authors: Ahmet Kara, Hung Q. Ngo, Milos Nikolic, Dan Olteanu, and Haozhe Zhang.
   title: "Maintaining Triangle Queries under Updates"
   journal: ACM Transactions on Database Systems
