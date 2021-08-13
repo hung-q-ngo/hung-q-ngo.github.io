@@ -1,9 +1,13 @@
-- authors: Mahmoud Abo Khamis, Ryan Curtin, Sungjin Im, Ben Moseley,, Hung Q. Ngo, Kirk Pruhs and Alireza Samadian
-  title: "An Approximation Algorithm for the Matrix Tree Multiplication Problem"
-  year: 2021
 - authors: Mahmoud Abo Khamis, Hung Q. Ngo, Reinhard Pichler, Dan Suciu, and Yisu Remy Wang
   title: "Convergence of Datalog over (Pre-) Semirings"
   arxiv-link: https://arxiv.org/abs/2105.14435
+  conf: ACM SIGMOD/PODS International Conference on Management of Data
+  abbvr: PODS
+  year: 2022
+- authors: Mahmoud Abo Khamis, Ryan Curtin, Sungjin Im, Ben Moseley,, Hung Q. Ngo, Kirk Pruhs and Alireza Samadian
+  title: "An Approximation Algorithm for the Matrix Tree Multiplication Problem"
+  abbvr: MFCS
+  conf: Mathematical Foundations of Computer Science
   year: 2021
 - authors: Ahmet Kara, Hung Q. Ngo, Milos Nikolic, Dan Olteanu, and Haozhe Zhang.
   title: "Maintaining Triangle Queries under Updates"
