@@ -1,3 +1,9 @@
+- authors: Yisu Remy Wang, Mahmoud Abo Khamis, Hung Q. Ngo, Reinhard Pichler, Dan Suciu
+  title: "Optimizing Recursive Queries with Program Synthesis"
+  arxiv-link: https://arxiv.org/abs/2202.10390
+  conf: ACM SIGMOD/PODS International Conference on Management of Data
+  abbvr: SIGMOD
+  year: 2022
 - authors: Mahmoud Abo Khamis, Hung Q. Ngo, Reinhard Pichler, Dan Suciu, and Yisu Remy Wang
   title: "Convergence of Datalog over (Pre-) Semirings"
   arxiv-link: https://arxiv.org/abs/2105.14435
