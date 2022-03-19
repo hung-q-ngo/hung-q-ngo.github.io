@@ -1,3 +1,9 @@
+- authors: Hung Q. Ngo
+  title: "On an Information Theoretic Approach to Cardinality Estimation (Invited Talk)"
+  arxiv-link: https://drops.dagstuhl.de/opus/volltexte/2022/15875/
+  conf: 25th International Conference on Database Theory (ICDT 2022)
+  abbvr: ICDT
+  year: 2022
 - authors: Yisu Remy Wang, Mahmoud Abo Khamis, Hung Q. Ngo, Reinhard Pichler, Dan Suciu
   title: "Optimizing Recursive Queries with Program Synthesis"
   arxiv-link: https://arxiv.org/abs/2202.10390
