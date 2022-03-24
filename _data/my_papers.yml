@@ -1,5 +1,5 @@
 - authors: Hung Q. Ngo
-  title: "On an Information Theoretic Approach to Cardinality Estimation (Invited Talk)"
+  title: "On an Information Theoretic Approach to Cardinality Estimation (KeyNote Talk)"
   arxiv-link: https://drops.dagstuhl.de/opus/volltexte/2022/15875/
   conf: 25th International Conference on Database Theory (ICDT 2022)
   abbvr: ICDT
@@ -16,6 +16,7 @@
   conf: ACM SIGMOD/PODS International Conference on Management of Data
   abbvr: PODS
   year: 2022
+  note: Best Paper Award at PODS 2022
 - authors: Mahmoud Abo Khamis, Ryan Curtin, Sungjin Im, Ben Moseley,, Hung Q. Ngo, Kirk Pruhs and Alireza Samadian
   title: "An Approximation Algorithm for the Matrix Tree Multiplication Problem"
   abbvr: MFCS
