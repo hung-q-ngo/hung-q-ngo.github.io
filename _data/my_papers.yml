@@ -1,3 +1,8 @@
+- authors: Mahmoud Abo Khamis, Hung Q. Ngo, Reinhard Pichler, Dan Suciu, and Yisu Remy Wang
+  title: "Datalog in Wonderland"
+  journal: SIGMOD Records
+  arxiv-link: https://sigmodrecord.org/publications/sigmodRecord/2206/pdfs/03_Principles_Khamis.pdf
+  year: 2022
 - authors: Hung Q. Ngo
   title: "On an Information Theoretic Approach to Cardinality Estimation (KeyNote Talk)"
   arxiv-link: https://drops.dagstuhl.de/opus/volltexte/2022/15875/
