@@ -1,3 +1,14 @@
+- authors: Sungjin Im, Benjamin Moseley, Hung Q. Ngo, Kirk Pruhs
+  title: "On the Convergence Rate of Linear Datalogo over Stable Semirings"
+  conf: International Conference on Database Theory
+  abbvr: ICDT
+  arxiv-link: https://arxiv.org/abs/2311.17664
+  year: 2024
+- authors: Amir Shaikhha, Dan Suciu, Maximilian Schleich, Hung Q. Ngo
+  title: "Optimizing Nested Recursive Queries"
+  conf: ACM SIGMOD/PODS International Conference on Management of Data
+  abbvr: SIGMOD
+  year: 2024
 - authors: Sungjin Im, Benjamin Moseley, Hung Q. Ngo, Kirk Pruhs, Alireza Samadian
   title: "Optimizing Polymatroid Functions"
   arxiv-link: https://arxiv.org/abs/2211.08381
