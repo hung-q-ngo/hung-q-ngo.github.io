@@ -12,6 +12,7 @@
   title: "Optimizing Nested Recursive Queries"
   conf: ACM SIGMOD/PODS International Conference on Management of Data
   abbvr: SIGMOD
+  arxiv-link: https://dl.acm.org/doi/pdf/10.1145/3639271
   year: 2024
 - authors: Sungjin Im, Benjamin Moseley, Hung Q. Ngo, Kirk Pruhs, Alireza Samadian
   title: "Optimizing Polymatroid Functions"
