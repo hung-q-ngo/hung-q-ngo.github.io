@@ -3,6 +3,7 @@
   conf: ACM SIGMOD/PODS International Conference on Management of Data
   abbvr: PODS
   year: 2025
+  arxiv-link: https://arxiv.org/abs/2312.14063
 - authors: Mahmoud Abo Khamis, Hung Q. Ngo, Dan Suciu
   title: "PANDA: Query Evaluation in Submodular Width"
   arxiv-link: https://arxiv.org/abs/2402.02001
