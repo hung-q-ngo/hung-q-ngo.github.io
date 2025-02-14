@@ -1,3 +1,8 @@
+- authors: Sungjin Im, Benjamin Moseley, Hung Q. Ngo, Kirk Pruhs
+  title: "Efficient Algorithms for Cardinality Estimation and Conjunctive Query Evaluation With Simple Degree Constraints"
+  conf: ACM SIGMOD/PODS International Conference on Management of Data
+  abbvr: PODS
+  year: 2025
 - authors: Vasileios Nakos, Hung Q. Ngo and Charalampos Tsourakakis,
   title: "Targeted Least Cardinality Candidate Key for Relational Databases"
   conf: International Conference on Database Theory
