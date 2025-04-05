@@ -33,10 +33,6 @@
   abbvr: SIGMOD
   arxiv-link: https://dl.acm.org/doi/pdf/10.1145/3639271
   year: 2024
-- authors: Sungjin Im, Benjamin Moseley, Hung Q. Ngo, Kirk Pruhs, Alireza Samadian
-  title: "Optimizing Polymatroid Functions"
-  arxiv-link: https://arxiv.org/abs/2211.08381
-  year: 2023
 - authors: Mahmoud Abo Khamis, Hung Q. Ngo, Reinhard Pichler, Dan Suciu, and Yisu Remy Wang
   title: "Datalog in Wonderland"
   journal: SIGMOD Records
