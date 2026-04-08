@@ -1,4 +1,10 @@
 - authors: Mahmoud Abo Khamis, Hung Q. Ngo, Dan Suciu
+  title: "Query Optimization and Evaluation via Information Theory: A Tutorial"
+  conf: ACM SIGMOD/PODS International Conference on Management of Data
+  abbvr: PODS
+  arxiv-link: https://arxiv.org/abs/2604.04893
+  year: 2026
+- authors: Mahmoud Abo Khamis, Hung Q. Ngo, Dan Suciu
   title: "PANDAExpress: a Simpler and Faster PANDA Algorithm"
   conf: ACM SIGMOD/PODS International Conference on Management of Data
   abbvr: PODS
