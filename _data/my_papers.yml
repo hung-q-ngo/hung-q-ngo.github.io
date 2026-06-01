@@ -1,3 +1,7 @@
+- authors: Vasileios Nakos, Hung Q. Ngo, Andreas Panayi
+  title: "Listing Even Cycles Faster than the Submodular-Width Barrier"
+  arxiv-link: https://arxiv.org/abs/2605.30564
+  year: 2026
 - authors: Mahmoud Abo Khamis, Hung Q. Ngo, Dan Suciu
   title: "Query Optimization and Evaluation via Information Theory: A Tutorial"
   conf: ACM SIGMOD/PODS International Conference on Management of Data
