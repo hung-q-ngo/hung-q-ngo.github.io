@@ -1,3 +1,7 @@
+- authors: Amir Shaikhha, Anna Herlihy, Hung Q. Ngo
+  title: "Compiling Linear Datalog to SQL for Program Analysis"
+  arxiv-link: https://arxiv.org/pdf/2609.06301
+  year: 2027
 - authors: Simon Frisk, Hangdong Zhao, Hung Ngo, Kirk Pruhs, Benjamin Moseley, Sungjin Im, Paraschos Koutris
   title: "Optimal Convergence of Iterative Methods for Datalogo"
   conf: ACM SIGMOD/PODS International Conference on Management of Data
