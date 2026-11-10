@@ -7,6 +7,7 @@
   title: "Optimal Convergence of Iterative Methods for Datalogo"
   conf: ACM SIGMOD/PODS International Conference on Management of Data
   abbvr: PODS
+  arxiv-link: https://arxiv.org/abs/2610.04062
   year: 2027
 - authors: Vasileios Nakos, Hung Q. Ngo, Andreas Panayi
   title: "Listing Even Cycles Faster than the Submodular-Width Barrier"
