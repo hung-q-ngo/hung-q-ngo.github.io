@@ -2,6 +2,7 @@
   title: "Compiling Linear Datalog to SQL for Program Analysis"
   conf: IEEE/ACM International Symposium on Code Generation and Optimization (CGO)
   arxiv-link: https://arxiv.org/pdf/2609.06301
+  abbvr: CGO
   year: 2027
 - authors: Simon Frisk, Sungjin Im, Paraschos Koutris, Benjamin Moseley, Hung Ngo, Kirk Pruhs, Hangdong Zhao
   title: "Optimal Convergence of Iterative Methods for Datalogo"
